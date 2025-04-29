@@ -7,7 +7,7 @@ const options: SelectProps['options'] = [];
 for (let i = 10; i < 36; i++) {
   options.push({
     label: i.toString(36) + i,
-    value: i.toString(36) + i,
+    value: "【微博】小小安全员",
   });
 }
 
